@@ -10,6 +10,7 @@ Upload the script to your Zabbix webroot (i.e. /usr/share/zabbix/) and open the 
 ##Requirements
 ###Server
 - PHP PDO
+
 ###User (visiting the size.php script)
 - Internet Access to URL https://maxcdn.bootstrapcdn.com/ (for better visualization by Bootstrap 3)
 
