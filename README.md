@@ -16,6 +16,7 @@ Upload the script to your Zabbix webroot (i.e. /usr/share/zabbix/) and open the 
 
 ##Tested on:
 - CentOS Linux 7.1 / Apache HTTPD 2.4 / PHP 5.6.9 / Zabbix Server+Web 2.4.5
+- CentOS LInux 6.5 / Apache HTTPD 2.2.15 / PHP 5.3.3 / Zabbix Server+Web 2.4.1
 
 ##Todo
 n/a
